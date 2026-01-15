@@ -73,10 +73,13 @@ The objective is to classify iris flowers into different species based on their 
 - 🌐 Deploy as a web app using Streamlit  
 
 ---
-
 ## 👤 Author
+
+<img src="https://avatars.githubusercontent.com/Nandan0402" width="120" style="border-radius: 50%;" />
+
 **Nandan**  
-📌 AI & Machine Learning Enthusiast
+📌 AI & Machine Learning Enthusiast  
 
 🔗 GitHub: https://github.com/Nandan0402  
 🔗 LinkedIn: https://www.linkedin.com/in/nandan0402  
+
